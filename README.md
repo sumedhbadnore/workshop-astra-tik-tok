@@ -1,3 +1,8 @@
+This repository contains Tik-Tok clone project I learnt in a workshop held by DataStax on Astra DB
+.
+.
+.
+.
 <!--- STARTEXCLUDE --->
 # Astra DB TikTok Clone Workshop
 
